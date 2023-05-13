@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/vacation-week/static/css/main.8bac59ea.css",
+    "main.js": "/vacation-week/static/js/main.39f33c59.js",
+    "static/media/cruise.jpg": "/vacation-week/static/media/cruise.96e44739677d9c58838c.jpg",
+    "static/media/night-house.jpg": "/vacation-week/static/media/night-house.389e085fbef0d89f5a6c.jpg",
+    "static/media/beach.jpg": "/vacation-week/static/media/beach.e77856c7d8c88b9d3909.jpg",
+    "static/media/diving.jpg": "/vacation-week/static/media/diving.9a50ac8f39ea32a99196.jpg",
+    "index.html": "/vacation-week/index.html",
+    "main.8bac59ea.css.map": "/vacation-week/static/css/main.8bac59ea.css.map",
+    "main.39f33c59.js.map": "/vacation-week/static/js/main.39f33c59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bac59ea.css",
+    "static/js/main.39f33c59.js"
+  ]
+}
